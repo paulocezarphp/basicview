@@ -4,6 +4,7 @@ BasicView: is a web framework that helps website and web application developers 
 BasicView: é um framework web que ajuda criadores de sites e aplicações web a agilizarem o desenvolvimento dando a eles  alguns componentes de interface e front-end para sites e aplicações web usando HTML, CSS e JavaScript.
 
 ### Project Goals (Metas de projeto)
+- [ ] Make the Basicview as compatible with browsers as possible (Torne o Basicview o mais compatível possível com os navegadores)
 - [ ] Make the BasicView stable and release version 1.0 (Torne o BasicView estável e lance a versão 1.0)
 - [ ] Make the BasicView simple and intuitive (Tornar o BasicView simples e intuitivo)
 - [ ] Make the BasicView fast and light (Tornar o BasicView rápido e leve)
