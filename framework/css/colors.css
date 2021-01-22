@@ -2,68 +2,68 @@
 * Text Color
 ---------------------------------------------*/
 .color-red{
-
+	color: #d60100;
 }
 
 .color-blue{
-	
+	color: #1392d6;
 }
 
 .color-green{
-	
+	color: #68a019;
 }
 
 .color-yellow{
-
+	color: #fcb125;
 }
 
 .color-orange{
-
+	color: #fe7800;
 }
 
 .color-black{
-	
+	color: #2e2e2e;
 }
 
 .color-grey{
-	
+	color: #999999;
 }
 
 .color-white{
-	
+	color: #;
 }
 
 /*---------------------------------------------
 * Background Color
 ---------------------------------------------*/
 .background-red{
-
+	background: #d60100;
 }
 
 .background-blue{
-	
+	background: #1392d6;
 }
 
 .background-green{
-	
+	background: #68a019;
 }
 
 .background-yellow{
-
+	background: #fcb125;
 }
 
 .background-orange{
-
+	background: #fe7800;
 }
 
 .background-black{
-	
+	background: #2e2e2e;
 }
 
 .background-grey{
-	
+	background: #999999;
 }
 
 .background-white{
-	
+	background: #fafafa;
 }
