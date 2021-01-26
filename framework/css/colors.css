@@ -2,19 +2,19 @@
 * Text Color
 ---------------------------------------------*/
 .color-red{
-	color: #d60100;
+	color: #f1634b;
 }
 
 .color-blue{
-	color: #1392d6;
+	color: #009bdd;
 }
 
 .color-green{
-	color: #68a019;
+	color: #00c86f;
 }
 
 .color-yellow{
-	color: #fcb125;
+	color: #fdc149;
 }
 
 .color-orange{
@@ -33,23 +33,27 @@
 	color: #fafafa;
 }
 
+.color-purple{
+	color: #9c60b8;
+}
+
 /*---------------------------------------------
 * Background Color
 ---------------------------------------------*/
 .background-red{
-	background: #d60100;
+	background: #f1634b;
 }
 
 .background-blue{
-	background: #1392d6;
+	background: #009bdd;
 }
 
 .background-green{
-	background: #68a019;
+	background: #00c86f;
 }
 
 .background-yellow{
-	background: #fcb125;
+	background: #fdc149;
 }
 
 .background-orange{
@@ -66,4 +70,8 @@
 
 .background-white{
 	background: #fafafa;
+}
+
+.background-purple{
+	background: #9c60b8;
 }

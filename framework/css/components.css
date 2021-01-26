@@ -1,0 +1,46 @@
+/*---------------------------------------------
+* fix-message Component
+---------------------------------------------*/
+.fix-message{
+	background: #444;
+	color: #fff;
+	font-size: 17px;
+	line-height: 23px;
+}
+
+.fix-message-context{
+	padding: 17px 20px;
+	color: rgba(255, 255, 255, 0.9);
+}
+
+.fix-message-button{
+	box-shadow: 0 0 0 0;
+	border: 0 none;
+	outline: 0;
+	margin-top: 20px;
+	padding: 5px 8px;
+	font-weight: bold;
+	color: #555;
+	border-radius: 3px;
+	cursor: pointer;
+	background: rgba(242, 242, 242, 0.6);
+}
+
+.fix-message-button:hover{ 
+	background: rgba(60, 60, 60, 0.8);
+	color: #fff;
+}
+
+.fix-message-button:active{ 
+	background: rgba(120, 120, 120, 0.6);
+}
+
+.fix-with-button{
+	display: grid;
+	grid-template-columns: auto 50px;
+}
+
+.fix-message-space{
+	margin: 17px;
+	border-radius: 3px; 
+}
