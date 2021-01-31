@@ -11,3 +11,24 @@
 .product{
 	
 }
+
+/*---------------------------------------------
+* ReferenceBox - quotes from books or people
+---------------------------------------------*/
+.referencebox{
+   font-style: italic;
+   background:  rgba(242, 242, 242, 0.85);
+   color: #777;
+   border-left: 3px solid #ccc;
+   font-size: 18px;
+   line-height: 23px;
+}
+
+.referencebox-context{
+   padding: 17px 20px;
+}
+
+.referencebox-author{
+  margin-top: 10px;
+  text-align: right;
+}
