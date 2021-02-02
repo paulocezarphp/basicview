@@ -1,5 +1,5 @@
 /*---------------------------------------------
-* fix-message Component
+* Fix-Message Component
 ---------------------------------------------*/
 .fix-message{
 	background: #444;
@@ -46,7 +46,7 @@
 }
 
 /*---------------------------------------------
-* table Component
+* Table Component
 ---------------------------------------------*/
 .table{
 
@@ -77,14 +77,14 @@
 }
 
 /*---------------------------------------------
-* checkbox Component
+* Checkbox Component
 ---------------------------------------------*/
 .checkbox{
 
 }
 
 /*---------------------------------------------
-* radio Component
+* Radio Component
 ---------------------------------------------*/
 .radio{
 	
@@ -98,7 +98,7 @@
 }
 
 /*---------------------------------------------
-* progress Component
+* List Component
 ---------------------------------------------*/
 
 .list{
@@ -115,4 +115,54 @@
     border-bottom: none;
     border-radius: 4px;
 }
+
+/*---------------------------------------------
+* Form Component
+---------------------------------------------*/
+.form{
+    width: 100%;
+}
+
+.form-label{
+	
+}
+
+.form-input{
+	border: 1px solid #ccc;
+}
+
+.form-input-style-down{
+	border-bottom: 1px solid #ccc;
+}
+
+.form-input-style-background{
+	background: #efeff5;
+}
+
+.form-button{
+	
+}
+
+/*---------------------------------------------
+* Button Component
+---------------------------------------------*/
+.button{
+    padding: 15px;
+}
+
+.button-small{
+    padding: 10px;
+    font-size: 14px;
+}
+
+.button-medium{
+	padding: 15px;
+	font-size: 16px;
+}
+
+.button-large{
+    padding: 25px;
+    font-size: 18px;	
+}
+
 

@@ -2,7 +2,19 @@
 * Cards Views 
 ---------------------------------------------*/
 .card{
-	background: #fff;
+    background: #fff;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+.card-head{
+    padding: 20px;
+    background: #ccc;
+    color: #555;
+}
+
+.card-context{
+    padding: 20px;
 }
 
 /*---------------------------------------------
@@ -12,23 +24,35 @@
 	
 }
 
+.product-button{
+   
+}
+
+.product-itens{
+  
+}
+
+.product-image{
+    width: 100%;
+}
+
 /*---------------------------------------------
 * ReferenceBox - quotes from books or people
 ---------------------------------------------*/
 .referencebox{
-   font-style: italic;
-   background:  rgba(242, 242, 242, 0.85);
-   color: #777;
-   border-left: 3px solid #ccc;
-   font-size: 18px;
-   line-height: 23px;
+    font-style: italic;
+    background:  rgba(242, 242, 242, 0.85);
+    color: #777;
+    border-left: 3px solid #ccc;
+    font-size: 18px;
+    line-height: 23px;
 }
 
 .referencebox-context{
-   padding: 17px 20px;
+    padding: 17px 20px;
 }
 
 .referencebox-author{
-  margin-top: 10px;
-  text-align: right;
+    margin-top: 10px;
+    text-align: right;
 }

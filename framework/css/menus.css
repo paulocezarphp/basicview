@@ -1,0 +1,36 @@
+/*---------------------------------------------
+* Menu Features
+---------------------------------------------*/
+.menu{
+	width: 100%;
+}
+
+.menu-position-fix{
+    position: fixed;
+    top: 0px;
+    left: 0px;
+}
+
+.menu-position-relative{
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+.menu-link{
+    text-decoration: none;
+}
+
+.menu-search{
+    width: 100%;
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+.menu-search-input{
+    width: 100%;
+}
+
+.menu-search-button{
+    width: 100%;
+}
