@@ -21,7 +21,7 @@
 * Product Views 
 ---------------------------------------------*/
 .product{
-	
+	width: 100%;
 }
 
 .product-button{
@@ -34,6 +34,18 @@
 
 .product-image{
     width: 100%;
+}
+
+.product-title{
+
+}
+
+.product-sub-title{
+    
+}
+
+.product-sub-money{
+    
 }
 
 /*---------------------------------------------

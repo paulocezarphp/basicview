@@ -1,12 +1,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;1,300;1,400;1,600&display=swap');
 
+
+h1{
+   color: #618c17;
+}
+
 .document{
     position: fixed;
     left: 0px;
     top: 0px;
     height: 100%;
     font-family: 'Open Sans', sans-serif;
-  
 }
 
 .document-group{
@@ -20,6 +24,7 @@
 	height: 100%;
 	overflow-x: none;
 	overflow-y: auto;
+	border-right: 10px solid #618c17;
 }
 
 .document-right{
@@ -30,6 +35,8 @@
 	font-size: 16px;
 	line-height: 27px;
 	color: #555;
+     border-left: 10px solid #89c520;
+	
 }
 
 .container-document{
@@ -38,23 +45,51 @@
 }
 
 .document-item{
-	padding: 17px 10px;
-	border-bottom: 1px solid #ccc;
-	background: #333;
-	color: #fff;
+	padding: 10px 20px;
+	color: #618c17;
 	cursor: pointer;
+	font-weight: bold;
+	font-size: 22px;
+	border-top: 2px solid #618c17;
+	border-bottom: 2px solid #618c17;
+	-webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
 }
 
 .document-item-sub{
-
-	border-bottom: 1px solid #ccc;
 	background: #ccc;
 }
 
 .document-item-sub-item{
-	padding: 14px 10px;
-	border-bottom: 1px solid #ccc;
-	background: #ccc;
-	border-bottom: 1px solid #999;
+	padding: 10px 20px;
+	border-bottom: 1px solid #dedede;
+	background: #f2f2f2;
 	cursor: pointer;
+	font-size: 14px;
+	-webkit-touch-callout: none;
+   -webkit-user-select: none;
+   -khtml-user-select: none;
+   -moz-user-select: none;
+   -ms-user-select: none;
+   user-select: none;
+}
+
+.document-item-sub-item:nth-child(even){
+    background: #f2f2f2;
+}
+
+.document-item-sub-item:nth-child(odd){
+    background: #f9f9f9;
+}
+
+.document-item-sub-item:hover{
+    background: #ebf7d4;
+}
+
+.document-item-sub-item:active{
+    background: #f2f2f2;
 }
