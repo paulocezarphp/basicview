@@ -24,34 +24,49 @@ h1{
 	height: 100%;
 	overflow-x: none;
 	overflow-y: auto;
-	border-right: 10px solid #618c17;
 }
 
+.document-left::-webkit-scrollbar              { width: 10px; }
+.document-left::-webkit-scrollbar-button       { height: 0px; background: #dedede; }
+.document-left::-webkit-scrollbar-track        { background: #dedede; }
+.document-left::-webkit-scrollbar-track-piece  {  }
+.document-left::-webkit-scrollbar-thumb        { background: #618c17; }
+.document-left::-webkit-scrollbar-corner       {  }
+.document-left::-webkit-resizer                { }
+
+.document-left::scrollbar              { width: 10px; }
+.document-left::scrollbar-button       { height: 0px; background: #dedede; }
+.document-left::scrollbar-track        { background: #dedede; }
+.document-left::scrollbar-track-piece  {  }
+.document-left::scrollbar-thumb        { background: #618c17; }
+.document-left::scrollbar-corner       {  }
+.document-left::resizer                { }
+
 .document-right{
-	padding: 20px 50px;
+	padding: 0px 50px;
     height: 100%;
     overflow-x: none;
 	overflow-y: auto;
 	font-size: 16px;
 	line-height: 27px;
 	color: #555;
-     border-left: 10px solid #89c520;
-	
 }
 
 .container-document{
 	width: 90%;
 	text-align: justify;
+	margin-top: 60px;
+	margin-bottom: 150px;
 }
 
 .document-item{
 	padding: 10px 20px;
 	color: #618c17;
 	cursor: pointer;
+	background: #f2f2f2;
 	font-weight: bold;
+	border-bottom: 2px solid #dff5bd;
 	font-size: 22px;
-	border-top: 2px solid #618c17;
-	border-bottom: 2px solid #618c17;
 	-webkit-touch-callout: none;
     -webkit-user-select: none;
     -khtml-user-select: none;
