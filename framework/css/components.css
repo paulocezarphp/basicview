@@ -237,4 +237,45 @@
 }
 
 
+/*---------------------------------------------
+* Pagination Component
+---------------------------------------------*/
+.pagination{
+    
+}
 
+.pagination-button{
+    padding: 10px 15px;
+    border: none !important;
+    outline: none !important;
+    box-shadow: none !important;
+    border-radius: 2px !important;
+    cursor: pointer !important;
+    display: inline-block !important;
+    filter:contrast(100%);
+}
+
+.pagination-button:hover{
+    filter:contrast(120%);
+}
+
+.pagination-button:active{
+    filter:contrast(100%);
+}
+
+.pagination-active{
+   filter:grayscale(100%);
+}
+
+.pagination-active:hover{
+   filter:grayscale(80%);
+}
+
+.pagination-active-invert{
+   background: #111;
+   color: #ccc;
+}
+
+.pagination-active-invert: hover{
+	background: #111;
+}
