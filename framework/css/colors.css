@@ -75,3 +75,42 @@
 .background-purple{
 	background: #9c60b8;
 }
+
+/*---------------------------------------------
+* Border Color
+---------------------------------------------*/
+.border-red{
+	border-color: #f1634b;
+}
+
+.border-blue{
+	border-color: #009bdd;
+}
+
+.border-green{
+	border-color: #00c86f;
+}
+
+.border-yellow{
+	border-color: #fdc149;
+}
+
+.border-orange{
+	border-color: #fe7800;
+}
+
+.border-black{
+	border-color: #2e2e2e;
+}
+
+.border-grey{
+	border-color: #999999;
+}
+
+.border-white{
+	border-color: #fafafa;
+}
+
+.border-purple{
+	border-color: #9c60b8;
+}

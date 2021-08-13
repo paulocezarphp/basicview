@@ -32,9 +32,54 @@
 	border-radius: 16px;
 }
 
+.border-radius-50{
+	border-radius: 100%;
+}
+
 .border-radius-100{
 	border-radius: 100%;
 }
+
+/*---------------------------------------------
+* Border Style
+---------------------------------------------*/
+.border{
+    border-width: 1px;  
+    border-style: solid;
+}
+
+.border-only-left{
+	border-style: solid;
+    border-left-width: 1px;
+    border-right-width: 0px;
+    border-top-width: 0px;
+    border-bottom-width: 0px;
+}
+
+.border-only-right{
+	border-style: solid;
+    border-left-width: 0px;
+    border-right-width: 1px;
+    border-top-width: 0px;
+    border-bottom-width: 0px;
+}
+
+.border-only-top{
+	border-style: solid;
+    border-left-width: 0px;
+    border-right-width: 0px;
+    border-top-width: 1px;
+    border-bottom-width: 0px;
+}
+
+.border-only-bottom{
+	border-style: solid;
+    border-left-width: 0px;
+    border-right-width: 0px;
+    border-top-width: 0px;
+    border-bottom-width: 1px;
+}
+
 
 /*---------------------------------------------
 * Marking Style
