@@ -44,39 +44,39 @@ function Gp_Animation_Count(id_document_element, count){
 /*----------------------------------------------------
 
 ----------------------------------------------------*/
-function ValidateEmail(){
+function ValidateEmail(email){
 
 }
 
 /*----------------------------------------------------
 
 ----------------------------------------------------*/
-function ValidateLogin(){
+function ValidateLogin($login){
 
 }
 
 /*----------------------------------------------------
 
 ----------------------------------------------------*/
-function ValidateName(){
+function ValidateName($name){
 
 }
 
 /*----------------------------------------------------
 
 ----------------------------------------------------*/
-function ValidatePassword(){
+function ValidatePassword($password){
 
 }
 
 /*----------------------------------------------------
 
 ----------------------------------------------------*/
-function OpenPopup(){
+function OpenPopup($id_popup){
 
 }
 
-function ClosePopup(){
+function ClosePopup($id_popup){
 
 }
 
