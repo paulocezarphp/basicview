@@ -69,4 +69,16 @@ function ValidatePassword(){
 
 }
 
+/*----------------------------------------------------
+
+----------------------------------------------------*/
+function OpenPopup(){
+
+}
+
+function ClosePopup(){
+
+}
+
+
 Gp_Start(); //code execution
