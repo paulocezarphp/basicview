@@ -1,42 +1,65 @@
 /*---------------------------------------------
 * Menu Features
 ---------------------------------------------*/
-.menu{
+.gp-navbar{
 	width: 100%;
 }
 
-.menu-position-fix{
+.gp-navbar-position-fix{
     position: fixed;
     top: 0px;
     left: 0px;
 }
 
-.menu-position-relative{
+.gp-navbar-position-relative{
     position: relative;
     top: 0px;
     left: 0px;
 }
 
-.menu-position-absolute{
+.gp-navbar-position-absolute{
     position: relative;
     top: 0px;
     left: 0px;
 }
 
-.menu-link{
+.gp-navbar-link{
     text-decoration: none;
 }
 
-.menu-search{
+.gp-navbar-search{
     width: 100%;
     display: grid;
     grid-template-columns: auto auto;
 }
 
-.menu-search-input{
+.gp-navbar-search-input{
     width: 100%;
 }
 
-.menu-search-button{
+.gp-navbar-search-button{
     width: 100%;
+}
+
+/*---------------------------------------------
+* Sidebar Features
+---------------------------------------------*/
+.gp-sidebar{
+
+}
+
+.gp-sidebar-item{
+    
+}
+
+.gp-sidebar-item-group{
+    
+}
+
+.gp-sidebar-item-icon{
+    
+}
+
+.gp-sidebar-item-text{
+    
 }

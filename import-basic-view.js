@@ -30,16 +30,10 @@ function Gp_Fix_Message_Close(){
 /*----------------------------------------------------
 This function performs loop animation
 ----------------------------------------------------*/
-function Gp_Animation_Loop(id_document_element){
+function Gp_Animation(id_document_element){
 
 }
 
-/*----------------------------------------------------
-This function performs the animation a number of times
-----------------------------------------------------*/
-function Gp_Animation_Count(id_document_element, count){
-
-}
 
 /*----------------------------------------------------
 
