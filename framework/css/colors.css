@@ -1,116 +1,116 @@
 /*---------------------------------------------
 * Text Color
 ---------------------------------------------*/
-.color-red{
+.gp-color-red{
 	color: #f1634b;
 }
 
-.color-blue{
+.gp-color-blue{
 	color: #009bdd;
 }
 
-.color-green{
+.gp-color-green{
 	color: #00c86f;
 }
 
-.color-yellow{
+.gp-color-yellow{
 	color: #fdc149;
 }
 
-.color-orange{
+.gp-color-orange{
 	color: #fe7800;
 }
 
-.color-black{
+.gp-color-black{
 	color: #2e2e2e;
 }
 
-.color-grey{
+.gp-color-grey{
 	color: #999999;
 }
 
-.color-white{
+.gp-color-white{
 	color: #fafafa;
 }
 
-.color-purple{
+.gp-color-purple{
 	color: #9c60b8;
 }
 
 /*---------------------------------------------
 * Background Color
 ---------------------------------------------*/
-.background-red{
+.gp-background-red{
 	background: #f1634b;
 }
 
-.background-blue{
+.gp-background-blue{
 	background: #009bdd;
 }
 
-.background-green{
+.gp-background-green{
 	background: #00c86f;
 }
 
-.background-yellow{
+.gp-background-yellow{
 	background: #fdc149;
 }
 
-.background-orange{
+.gp-background-orange{
 	background: #fe7800;
 }
 
-.background-black{
+.gp-background-black{
 	background: #2e2e2e;
 }
 
-.background-grey{
+.gp-background-grey{
 	background: #999999;
 }
 
-.background-white{
+.gp-background-white{
 	background: #fafafa;
 }
 
-.background-purple{
+.gp-background-purple{
 	background: #9c60b8;
 }
 
 /*---------------------------------------------
 * Border Color
 ---------------------------------------------*/
-.border-red{
+.gp-border-red{
 	border-color: #f1634b;
 }
 
-.border-blue{
+.gp-border-blue{
 	border-color: #009bdd;
 }
 
-.border-green{
+.gp-border-green{
 	border-color: #00c86f;
 }
 
-.border-yellow{
+.gp-border-yellow{
 	border-color: #fdc149;
 }
 
-.border-orange{
+.gp-border-orange{
 	border-color: #fe7800;
 }
 
-.border-black{
+.gp-border-black{
 	border-color: #2e2e2e;
 }
 
-.border-grey{
+.gp-border-grey{
 	border-color: #999999;
 }
 
-.border-white{
+.gp-border-white{
 	border-color: #fafafa;
 }
 
-.border-purple{
+.gp-border-purple{
 	border-color: #9c60b8;
 }

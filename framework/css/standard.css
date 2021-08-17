@@ -60,23 +60,4 @@ a:visited{
 }
 
 
-/*---------------------------------------------
-* Block Elements
----------------------------------------------*/
-.container{
-	width: 70%;
-	margin-top: 30px;
-	margin-bottom: 30px;
-	margin-left: auto;
-	margin-right: auto;
-}
-
-.container-full{
-	width: 98%;
-	margin-top: 30px;
-	margin-bottom: 30px;
-	margin-left: auto;
-	margin-right: auto;
-}
-
 

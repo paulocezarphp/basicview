@@ -1,57 +1,57 @@
 /*---------------------------------------------
 * Cards Views 
 ---------------------------------------------*/
-.card{
+.gp-card{
     background: #fff;
     border: 1px solid #ccc;
     border-radius: 3px;
 }
 
-.card-head{
+.gp-card-head{
     padding: 20px;
     background: #ccc;
     color: #555;
 }
 
-.card-context{
+.gp-card-context{
     padding: 20px;
 }
 
 /*---------------------------------------------
 * Product Views 
 ---------------------------------------------*/
-.product{
+.gp-product{
 	width: 100%;
 }
 
-.product-button{
+.gp-product-button{
    
 }
 
-.product-itens{
+.gp-product-itens{
   
 }
 
-.product-image{
+.gp-product-image{
     width: 100%;
 }
 
-.product-title{
+.gp-product-title{
 
 }
 
-.product-sub-title{
+.gp-product-sub-title{
     
 }
 
-.product-sub-money{
+.gp-product-sub-money{
     
 }
 
 /*---------------------------------------------
 * ReferenceBox - quotes from books or people
 ---------------------------------------------*/
-.referencebox{
+.gp-referencebox{
     font-style: italic;
     background:  rgba(242, 242, 242, 0.85);
     color: #777;
@@ -60,11 +60,11 @@
     line-height: 23px;
 }
 
-.referencebox-context{
+.gp-referencebox-context{
     padding: 17px 20px;
 }
 
-.referencebox-author{
+.gp-referencebox-author{
     margin-top: 10px;
     text-align: right;
 }

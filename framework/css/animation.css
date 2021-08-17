@@ -1,10 +1,14 @@
 /*---------------------------------------------
 * Animator Elements 
 ---------------------------------------------*/
-.animator{
+.gp-animator{
 
 }
 
-.animator-item{
-	
+.gp-animator-item{
+	display: none !important;
+}
+
+.gp-animator-item:first-child{ 
+    display: block !important;
 }

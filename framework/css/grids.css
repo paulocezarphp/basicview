@@ -1,47 +1,69 @@
 /*---------------------------------------------
+* Block Elements
+---------------------------------------------*/
+.gp-container{
+	width: 70%;
+	position: relative;
+	transform: translateX(-50%);
+	left: 50%;
+}
+
+.gp-container-expansive{
+	width: 98%;
+	position: relative;
+	transform: translateX(-50%);
+	left: 50%;
+}
+
+.gp-container-context{
+	padding: 50px;
+}
+
+
+/*---------------------------------------------
 * Grid Expansive Features
 ---------------------------------------------*/
-.grid-expansive-columns-2{
+.gp-grid-expansive-columns-2{
 	display: grid;
 	grid-template-columns: 50% 50%;
 }
 
-.grid-expansive-columns-3{
+.gp-grid-expansive-columns-3{
 	display: grid;
 	grid-template-columns: 33.34% 33.33% 33.33%;
 }
 
-.grid-expansive-columns-4{
+.gp-grid-expansive-columns-4{
 	display: grid;
 	grid-template-columns: 25% 25% 25% 25%;
 }
 
-.grid-expansive-columns-5{
+.gp-grid-expansive-columns-5{
 	display: grid;
 	grid-template-columns: 20% 20% 20% 20% 20%;
 }
 
-.grid-expansive-columns-6{
+.gp-grid-expansive-columns-6{
 	display: grid;
 	grid-template-columns: 16.61% 16.61% 16.61% 16.61% 16.66% 16.66%;
 }
 
-.grid-expansive-columns-7{
+.gp-grid-expansive-columns-7{
 	display: grid;
 	grid-template-columns: 14.29% 14.29% 14.29% 14.29% 14.28% 14.28% 14.28%;
 }
 
-.grid-expansive-columns-8{
+.gp-grid-expansive-columns-8{
 	display: grid;
 	grid-template-columns: 12.50% 12.50% 12.50% 12.50% 12.50% 12.50% 12.50% 12.50%;
 }
 
-.grid-expansive-columns-9{
+.gp-grid-expansive-columns-9{
 	display: grid;
 	grid-template-columns: 11.12% 11.11% 11.11% 11.11% 11.11% 11.11% 11.11% 11.11% 11.11%;
 }
 
-.grid-expansive-columns-10{
+.gp-grid-expansive-columns-10{
 	display: grid;
 	grid-template-columns: 10% 10% 10% 10% 10% 10% 10% 10% 10% 10%;
 }
@@ -49,47 +71,47 @@
 /*---------------------------------------------
 * Grid Auto Features
 ---------------------------------------------*/
-.grid-auto-columns-2{
+.gp-grid-auto-columns-2{
 	display: grid;
 	grid-template-columns: auto auto;
 }
 
-.grid-auto-columns-3{
+.gp-grid-auto-columns-3{
 	display: grid;
 	grid-template-columns: auto auto auto;
 }
 
-.grid-auto-columns-4{
+.gp-grid-auto-columns-4{
 	display: grid;
 	grid-template-columns: auto auto auto auto;
 }
 
-.grid-auto-columns-5{
+.gp-grid-auto-columns-5{
 	display: grid;
 	grid-template-columns: auto auto auto auto auto;
 }
 
-.grid-auto-columns-6{
+.gp-grid-auto-columns-6{
 	display: grid;
 	grid-template-columns: auto auto auto auto auto auto;
 }
 
-.grid-auto-columns-7{
+.gp-grid-auto-columns-7{
 	display: grid;
 	grid-template-columns: auto auto auto auto auto auto auto;
 }
 
-.grid-auto-columns-8{
+.gp-grid-auto-columns-8{
 	display: grid;
 	grid-template-columns: auto auto auto auto auto auto auto auto;
 }
 
-.grid-auto-columns-9{
+.gp-grid-auto-columns-9{
 	display: grid;
 	grid-template-columns: auto auto auto auto auto auto auto auto auto;
 }
 
-.grid-auto-columns-10{
+.gp-grid-auto-columns-10{
 	display: grid;
 	grid-template-columns: auto auto auto auto auto auto auto auto auto auto;
 }
