@@ -68,3 +68,19 @@
     margin-top: 10px;
     text-align: right;
 }
+
+/*---------------------------------------------
+* Rotate 
+---------------------------------------------*/
+.gp-cardrotate{
+    width: 100%;
+    display:flex;
+}
+
+.gp-cardrotate-item{
+    padding: 10px;
+}
+
+.gp-cardrotate-item:hover{
+   
+}
