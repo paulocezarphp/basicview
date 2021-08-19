@@ -241,7 +241,7 @@
 * Pagination Component
 ---------------------------------------------*/
 .gp-pagination{
-
+    
 }
 
 .gp-pagination-button{
@@ -278,4 +278,54 @@
 
 .gp-pagination-active-invert: hover{
 	background: #111;
+}
+
+/*---------------------------------------------
+* Tabview Component
+---------------------------------------------*/
+.gp-tabview{
+    width: 100%;
+}
+
+.gp-tabview-item{
+	display: inline-block;
+}
+
+.gp-tabview-button{
+	display: block;
+}
+
+.gp-tabview-external-button{
+	display: block;
+}
+
+.gp-tabview-page{
+	width: 100%;
+}
+
+/*---------------------------------------------
+* banner Component
+---------------------------------------------*/
+.gp-banner{
+
+}
+
+.gp-banner-horizontal{
+	
+}
+
+.gp-banner-vertical{
+	
+}
+
+.gp-banner-image{
+	
+}
+
+.gp-banner-text{
+	
+}
+
+.gp-banner-button{
+	
 }
