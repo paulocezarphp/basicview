@@ -1,0 +1,49 @@
+/*---------------------------------------------
+* Menu Features
+---------------------------------------------*/
+.gp-captcha{
+	display: 20px;
+	width: 300px;
+}
+
+.gp-captcha-subtitles{
+	padding: 15px;
+}
+
+.gp-captcha-subtitles-title{
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.gp-captcha-subtitles-subtitle{
+    font-size: 14px;
+}
+
+.gp-captcha-text{
+
+}
+
+.gp-captcha-text-item{
+
+}
+
+.gp-captcha-text-icon{
+
+}
+
+.gp-captcha-text-display{
+
+}
+
+.gp-captcha-text-input{
+
+}
+
+.gp-captcha-image{
+	display: grid;
+	grid-template-columns: 33.33% 33.33% 33.34%;
+}
+
+.gp-captcha-image-item{
+	padding: 3px;
+}

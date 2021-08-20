@@ -2,8 +2,13 @@
 here we preload the components and settings of the 
 GridPage elements...
 ----------------------------------------------------*/
-function Gp_Start(){
+var gp_version_framework = "1.0";
+var gp_url_oficial_site = "localhost";
+var gp_url_download_version = "https://github.com/paulocezarphp/basicview";
+var gp_url_github_version = "https://github.com/paulocezarphp/basicview";
 
+function gp_script_start(){
+    
 }
 
 /*----------------------------------------------------
@@ -16,63 +21,75 @@ function Gp_Message_Popup_Show(){
 /*----------------------------------------------------
 hides a message pop-up  on the screen
 ----------------------------------------------------*/
-function Gp_Message_Popup_Hide(){
+function gp_message_popup_hide(){
 
 }
 
 /*----------------------------------------------------
 Close fixed messages
 ----------------------------------------------------*/
-function Gp_Fix_Message_Close(){
+function gp_fix_message_close(){
 
 }
 
 /*----------------------------------------------------
 This function performs loop animation
 ----------------------------------------------------*/
-function Gp_Animation(id_document_element){
-
-}
-
-
-/*----------------------------------------------------
-
-----------------------------------------------------*/
-function ValidateEmail(email){
+function gp_animation(id_document_element){
 
 }
 
 /*----------------------------------------------------
-
+Function that validates email
 ----------------------------------------------------*/
-function ValidateLogin($login){
+function gp_validate_email(email){
 
 }
 
 /*----------------------------------------------------
-
+Function that validates login
 ----------------------------------------------------*/
-function ValidateName($name){
+function gp_validate_login($login){
 
 }
 
 /*----------------------------------------------------
-
+Function to validate names and nicknames
 ----------------------------------------------------*/
-function ValidatePassword($password){
+function gp_validate_name($name){
 
 }
 
 /*----------------------------------------------------
-
+Function to validate passwords and access keys
 ----------------------------------------------------*/
-function OpenPopup($id_popup){
+function gp_validate_password($password){
 
 }
 
-function ClosePopup($id_popup){
+/*----------------------------------------------------
+Functions to manipulate and display popup to the user
+----------------------------------------------------*/
+function gp_open_popup($id_popup){
+
+}
+
+function gp_close_popup($id_popup){
+
+}
+
+/*----------------------------------------------------
+Function for content access control and validation 
+and button access release
+----------------------------------------------------*/
+function gp_captcha_text_validate(){
+
+}
+
+function gp_captcha_imagem_validate(){
 
 }
 
 
-Gp_Start(); //code execution
+
+gp_script_start(); //code execution
