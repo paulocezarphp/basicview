@@ -45,7 +45,7 @@
 * Sidebar Features
 ---------------------------------------------*/
 .gp-sidebar{
-
+    width: 300px;
 }
 
 .gp-sidebar-item{
@@ -53,18 +53,26 @@
 }
 
 .gp-sidebar-item:hover{
-    
+    background: rgba(0, 0, 0, .3);
+}
+
+.gp-sidebar-item:active{
+    background: rgba(0, 0, 0, .3);
 }
 
 .gp-sidebar-item-group{
-    
+    display: grid;
+    grid-template-columns: 40px;
 }
 
 .gp-sidebar-item-icon{
-    
+    position: relative;
+    transform: translateY(-50%);
+    left: 50%;
+    width: 100%;
 }
 
 .gp-sidebar-item-text{
-    
+    font-size: 15px;
 }
 

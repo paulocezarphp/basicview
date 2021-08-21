@@ -1,0 +1,63 @@
+/*---------------------------------------------
+* Form Features
+---------------------------------------------*/
+.gp-form{
+
+}
+
+.gp-form-group{
+	width: 100%;
+	display: grid;
+	grid-template-columns: 100%;
+}
+
+
+.gp-form-group-2{
+	width: 100%;
+	display: grid;
+	grid-template-columns: 50% 50%;
+}
+
+.gp-form-group-3{
+	width: 100%;
+	display: grid;
+	grid-template-columns: 33.33% 33.34% 33.33%;
+}
+
+.gp-form-group-4{
+	width: 100%;
+	display: grid;
+	grid-template-columns: 25% 25% 25% 25%;
+}
+
+.gp-form-item{
+	width: 100%;
+}
+
+.gp-form-input-text{
+	width: 100%;
+}
+
+.gp-form-input-email{
+	width: 100%;
+}
+
+.gp-form-input-tel{
+	width: 100%;
+}
+
+.gp-form-input-checkbox{
+	
+}
+
+.gp-form-input-radio{
+	
+}
+
+.gp-form-input-ranger{
+	
+}
+
+.gp-form-label{
+	width: 100%;
+}
