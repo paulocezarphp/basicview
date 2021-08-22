@@ -1,0 +1,9 @@
+/*---------------------------------------------
+* Icons Elements
+---------------------------------------------*/
+.gp-icon-16{ width: 16px;  }
+.gp-icon-32{ width: 32px; }
+.gp-icon-64{ width: 64px; }
+.gp-icon-128{ width: 128px; }
+.gp-icon-full-size{ width: 100%; }
+.gp-icon-name{ background-image: url("../icons/name_icon.svg"); }
