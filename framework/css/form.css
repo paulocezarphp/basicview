@@ -38,23 +38,43 @@
 	width: 100%;
 }
 
+.gp-form-input-text:focus{
+
+}
+
 .gp-form-input-email{
 	width: 100%;
+}
+
+.gp-form-input-email:focus{
+
 }
 
 .gp-form-input-tel{
 	width: 100%;
 }
 
-.gp-form-input-checkbox{
+.gp-form-input-tel:focus{
+
+}
+
+.gp-form-checkbox{
 	
 }
 
-.gp-form-input-radio{
+.gp-form-radio{
 	
 }
 
-.gp-form-input-ranger{
+.gp-form-ranger{
+	
+}
+
+.gp-form-textarea{
+	
+}
+
+.gp-form-textarea:focus{
 	
 }
 
