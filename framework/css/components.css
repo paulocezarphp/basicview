@@ -56,14 +56,6 @@
 
 }
 
-.gp-table-tr:nth-child(even){
-
-}
-
-.gp-table-tr:nth-child(odd){
-
-} 
-
 .gp-table-th{
 
 }
@@ -74,6 +66,14 @@
 
 .gp-table-td{
 
+}
+
+.gp-table-tr-binary:nth-child(even){ 
+   background: #fff;
+}
+
+.gp-table-tr-binary:nth-child(odd){ 
+   background: #dedede;
 }
 
 /*---------------------------------------------

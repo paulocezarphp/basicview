@@ -70,11 +70,19 @@ function gp_validate_password($password){
 /*----------------------------------------------------
 Functions to manipulate and display popup to the user
 ----------------------------------------------------*/
-function gp_open_popup($id_popup){
+function gp_open_popup_hide($id_popup){
 
 }
 
-function gp_close_popup($id_popup){
+function gp_close_popup_hide($id_popup){
+
+}
+
+function gp_open_popup_motion($id_popup){
+
+}
+
+function gp_close_popup_motion($id_popup){
 
 }
 
